@@ -1,0 +1,30 @@
+# Site
+name: "Быстрые деньги в онлайн казино"
+title: "Быстрые деньги в онлайн казино"
+description: "Расскажу как найти выигрышные слоты, все он играх в онлайн казино + дельные советы"
+meta_description: "Расскажу как найти выигрышные слоты, все он играх в онлайн казино + деньные советы."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 20
+baseurl: '/'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
