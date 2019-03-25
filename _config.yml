@@ -5,7 +5,7 @@ description: "Расскажу как найти выигрышные слоты
 meta_description: "Расскажу как найти выигрышные слоты, все он играх в онлайн казино + деньные советы."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 5
+paginate: 20
 baseurl: '/'
 url: "http://www.svijet-beba.com"
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
