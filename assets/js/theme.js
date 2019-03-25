@@ -1,3 +1,6 @@
+---
+layout: compress-js
+---
 jQuery(document).ready(function($){
     
  
